@@ -7,7 +7,7 @@
           <div
             class="columns is-variable is-1-mobile is-0-tablet is-3-desktop is-8-widescreen is-2-fullhd"
           >
-            <div class="column mt-3">
+            <div class="column mt-3 animate__animated animate__bounceInLeft">
               <img src="@/assets/index.jpeg" alt="" />
             </div>
             <div class="column ">
@@ -23,8 +23,10 @@
                 <b-progress type="is-info" value="85"></b-progress>
                 <p>CSS ( Intermediate )</p>
                 <b-progress type="is-info" value="65"></b-progress>
-                <p>Bootstrap ( Intermediate ) / Tailwind ( Beginner )</p>
+                <p>Bootstrap ( Intermediate )</p>
                 <b-progress type="is-info" value="60"></b-progress>
+                <p>Tailwind ( Beginner )</p>
+                <b-progress type="is-info" value="40"></b-progress>
                 <p>Javascript ( Intermediate )</p>
                 <b-progress type="is-info" value="60"></b-progress>
                 <p>Vue JS ( Beginner )</p>

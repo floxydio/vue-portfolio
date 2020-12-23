@@ -7,16 +7,16 @@
           <div
             class="columns is-variable is-1-mobile is-0-tablet is-3-desktop is-8-widescreen is-2-fullhd"
           >
-            <div class="column mt-3">
+            <div class="column mt-3 animate__animated animate__bounceInLeft">
               <img src="@/assets/index.jpeg" alt="" />
             </div>
             <div class="column mt-5 animate__animated animate__zoomIn">
               <div class="has-text-left mb-5 ">
-                <h1 class="has-text-info is-size-2">Dio Rovelino</h1>
+                <h1 class="has-text-info is-size-2">Tentang Saya</h1>
                 <p class="has-text-weight-light mt-2 mb-5">
                   Junior Front End Developer
                 </p>
-                <p class="has-text-weight-bold mt-5 mb-5">
+                <p class="has-text-weight-normal mt-5 mb-5">
                   Hai, Perkenalkan Nama saya Dio Okta Rovelino <br />
                   Saya berumur 20 Tahun, Saya adalah Mahasiswa di Universitas
                   Bina Sarana Informatika (Semester 3) Saya hobi mempelajari
@@ -29,14 +29,14 @@
                   href="https://www.github.com/floxydio"
                   target="_blank"
                   class="has-text-dark"
-                  ><i class="fab fa-github is-size-3"></i
-                ></a>
+                  ><i class="fab fa-github is-size-3"></i> Github</a
+                >
                 <a
                   href="https://www.linkedin.com/in/dio-okta-rovelino-76a204189"
                   target="_blank"
                   class="has-text-dark"
-                  ><i class="fab fa-linkedin is-size-3 ml-3"></i
-                ></a>
+                  ><i class="fab fa-linkedin is-size-3 ml-3"></i> Linkedin</a
+                >
               </div>
             </div>
           </div>
