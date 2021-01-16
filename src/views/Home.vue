@@ -4,9 +4,7 @@
       <div class="hero-body">
         <div class="container has-text-centered">
           <div class="column">
-            <div
-              class="animate__animated animate__zoomIn is-size-3 has-text-weight-bold"
-            >
+            <div class="hello is-size-3 has-text-weight-bold">
               Hello, My Name is Dio Okta Rovelino
             </div>
           </div>
@@ -48,3 +46,20 @@ export default {
   components: {},
 };
 </script>
+
+<style scoped>
+.hello {
+  overflow: hidden;
+  white-space: nowrap;
+  letter-spacing: 0.1em;
+  animation: typing 5s steps(50, end);
+}
+@keyframes typing {
+  from {
+    width: 0;
+  }
+  to {
+    width: 100%;
+  }
+}
+</style>
